@@ -1,22 +1,21 @@
 <h1>Introduction</h1>
 
- Health is real wealth in the pandemic time we all realized the brute effects of covid-19 
-on all irrespective of any status. This report is made to analyze the health and 
-medical data, which is provided, for better future preparation. The following section is 
-all about the purpose of this report. At the end, observations are recorded and 
-conclusions are made.
+The Agriculture business domain, as a vital part of the overall supply chain, is 
+expected to highly evolve in the upcoming years via the developments, which are 
+taking place on the side of the Future Internet.  This report uses a dataset which 
+provides a huge amount of information on crop production in India ranging from 
+several years. Based on the information the ultimate goal would be to predict crop 
+production and find important insights highlighting key indicators and metrics that 
+influence crop production. The following section makes a brief mention about this 
+report. Finally, observations are recorded and conclusions are made.
 
 <h1>Purpose</h1>
 
-● To analyze the relationship between the Target variable, i.e. indication of heart 
-problem, and the continuous variables: Resting blood pressure, Serum 
-cholestrol, Maximum heart rate achieved, and Oldpeak (ST depression 
-caused by activity in comparison to rest) while taking the Age of patients 
-into account. <br>
- ● To analyze the relationship between the Target variable, and the categorical 
-variables: Gender, Chest pain, Resting electrocardiographic results, 
-Exercise induced angina, Fasting blood sugar, Slope of peak exercise ST 
-segment, No. of major blood vessels colored by flourosopy, and 
-Thalassemia. <br>
+● To analyze crop production based on Indian states.<br>
+● To study crop production on yearly basis with the help of time series analysis.<br>
+● To analyze crop production based on seasons.<br>
+● To understand the distribution of crops across India.<br>
+● To analyze distribution of crops based on seasons.<br> 
+● To study distribution of crops on yearly basis with the help of time series analysis.
 
 <h1>Tableau project source: <a href="https://public.tableau.com/app/profile/unmilan.baruah/viz/CropProductionanalysis_17219986070240/Dashboard1">Click Here</a></h1>
